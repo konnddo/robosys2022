@@ -5,16 +5,14 @@
 import sys
 
 ans = 0
-ansm
+aans = 0
 for line in sys.stdin:
     try:
         ans += int(line)
+        aans -= int(line)
     except:
         ans += float(line)
+        aans -= float(line)
 
-    try:
-        ansm -= int(line)
-    except:
-        ansm -= float(line)
-
-print(ans, ansm)
+print(ans)
+print(aans)
