@@ -5,13 +5,16 @@
 import sys
 
 ans = 0
-aans = 0
+ans_a = 0
+ans_b = 1
 for line in sys.stdin:
     try:
         ans += int(line)
-        aans -= int(line)
+        ans_a -= int(line)
+        ans_b *= int(line)
     except:
         ans += float(line)
-        aans -= float(line)
+        ans_a -= float(line)
+        ans_b *= float(line)
 
-print(ans, aans)
+print(ans, ans_a, ans_b)
