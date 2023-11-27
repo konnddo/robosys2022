@@ -14,5 +14,4 @@ for line in sys.stdin:
         ans += float(line)
         aans -= float(line)
 
-print(ans)
-print(aans)
+print(ans, aans)
