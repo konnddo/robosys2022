@@ -15,7 +15,7 @@
 ## テスト環境
 * Ubuntu
 
-＊このソフトウェアパッケージは，3条項BSDライセンスの下，再配布および使用が許可されます.
-＊このパッケージは，aaa由来のコード（©2023 Hoge Fuge）のものを，本人の許可を得て自身の著作ととしたものです.
-　　＊ [ryuichiueda/my_slides robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
-＊©　2023　Mei Kondo
+* このソフトウェアパッケージは，3条項BSDライセンスの下，再配布および使用が許可されます.
+* このパッケージは，aaa由来のコード（©2023 Hoge Fuge）のものを，本人の許可を得て自身の著作ととしたものです.
+    * [ryuichiueda/my_slides robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
+* ©　2023　Mei Kondo
