@@ -4,9 +4,7 @@
 # plusコマンド
 [![test](https://github.com/konnddo/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/konnddo/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す。
-標準入力から読み込んだ数字を引く。
-標準入力から読み込んだ数字を掛ける。
+標準入力から読み込んだ数字を足した結果，引いた結果，掛けた結果を表示する。
 
 ## 必要なソフトウェア
 * python
