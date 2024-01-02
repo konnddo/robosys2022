@@ -6,9 +6,10 @@
 標準入力から読み込んだ数字を足した結果，引いた結果，掛けた結果を表示する。
 
 ## インストール方法
+ターミナルで以下のコマンドを実行する。
 ```
-git clone https://github.com/konnddo/robosys2023.git
-cd robosys2023
+$ git clone https://github.com/konnddo/robosys2023.git
+$ cd robosys2023
 ```
 
 ## 使い方
